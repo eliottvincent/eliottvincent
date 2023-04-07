@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a **software engineer** with an **entrepreneurial mindset**. I am passionate about building products & services that make people’s lives easier!
 
