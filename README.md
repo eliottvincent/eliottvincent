@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **software engineer** with an **entrepreneurial mindset**. I am passionate about building products & services that make people’s lives easier!
+I'm a **software engineer** with an **entrepreneurial mindset**. I am passionate about designing & building products!
 
 I'm currently part of an amazing team at [Crisp](https://crisp.chat/). I also work on [Jomo](https://jomo.so). And I help a handful of other companies that I believe in, or that I am passionate about.
 
