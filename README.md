@@ -10,4 +10,4 @@ Some of my libraries: [Email Forward Parser](https://github.com/crisp-oss/email-
 
 🐦 @eliottvct
 
-💡 Learn more about me at: [eliottvincent.com](https://elio.tt)
+💡 Learn more about me at: [elio.tt](https://elio.tt)
